@@ -1,8 +1,8 @@
 ﻿# Temple-Management-System
-Temple Management System is an integrated digital solution designed to streamline temple operations, including administration, donation management, event coordination, and community engagement.
-It leverages advanced software tools to provide a centralized, user-friendly platform that enhances the efficiency of temple activities and improves communication with devotees
-Built for small temples and large temple networks alike, it can scale to meet the needs of any religious organization.
-To replace traditional, paper-based workflows with a digital platform, allowing for easier tracking, communication, and data management.
+Temple Management System is an integrated digital solution designed to streamline temple operations, including administration, donation management, event coordination, and community engagement. <br />
+It leverages advanced software tools to provide a centralized, user-friendly platform that enhances the efficiency of temple activities and improves communication with devotees<br />
+Built for small temples and large temple networks alike, it can scale to meet the needs of any religious organization. <br />
+To replace traditional, paper-based workflows with a digital platform, allowing for easier tracking, communication, and data management.<br />
 
 PURPOSE
 To create a seamless interface for devotees to participate in temple events, make donations, and receive updates and notifications about temple activities.
