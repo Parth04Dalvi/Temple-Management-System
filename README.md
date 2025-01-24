@@ -5,7 +5,7 @@ It leverages advanced software tools to provide a centralized, user-friendly pla
 Built for small temples and large temple networks alike, it can scale to meet the needs of any religious organization. <br />
 To replace traditional, paper-based workflows with a digital platform, allowing for easier tracking, communication, and data management.<br />
 
-PURPOSE<br />
+# PURPOSE<br />
 To create a seamless interface for devotees to participate in temple events, make donations, and receive updates and notifications about temple activities.<br />
 To ensure transparency in financial transactions, donations, and inventory management, fostering trust among the community.<br />
 
