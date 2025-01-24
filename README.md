@@ -5,14 +5,14 @@ Built for small temples and large temple networks alike, it can scale to meet th
 To replace traditional, paper-based workflows with a digital platform, allowing for easier tracking, communication, and data management.<br />
 
 PURPOSE
-To create a seamless interface for devotees to participate in temple events, make donations, and receive updates and notifications about temple activities.
-To ensure transparency in financial transactions, donations, and inventory management, fostering trust among the community.
+To create a seamless interface for devotees to participate in temple events, make donations, and receive updates and notifications about temple activities.<br />
+To ensure transparency in financial transactions, donations, and inventory management, fostering trust among the community.<br />
 
 GOALS
-Create a platform that combines event scheduling, donation tracking, volunteer management, and administrative tasks in one place.
-Implement features such as event reminders, online bookings, live-streaming of rituals, and push notifications to keep devotees engaged.
-Enable temple authorities to better manage resources, track inventory, and assign tasks to volunteers effectively
-Generate reports and analytics on donation trends, attendance, and event success to help temples make informed decisions for future initiatives.
+Create a platform that combines event scheduling, donation tracking, volunteer management, and administrative tasks in one place.<br />
+Implement features such as event reminders, online bookings, live-streaming of rituals, and push notifications to keep devotees engaged.<br />
+Enable temple authorities to better manage resources, track inventory, and assign tasks to volunteers effectively<br />
+Generate reports and analytics on donation trends, attendance, and event success to help temples make informed decisions for future initiatives.<br />
 
 ![image](https://github.com/user-attachments/assets/8bc99d3e-ebf7-4e4d-902f-98004dcc6ddb)
 
